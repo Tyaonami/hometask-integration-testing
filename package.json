@@ -1,0 +1,18 @@
+{
+  "name": "hometask-project-set-up",
+  "version": "1.0.0",
+  "description": "This is my first project",
+  "main": "rectangle.js",
+  "repository": "git@github.com:Tyaonami/hometask-integration-testing.git",
+  "author": "Tatiana <tatyana@devindi.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
